@@ -8,7 +8,7 @@ const Resume = () => {
       <div className="flex justify-between items-center mb-6">
         <h1 className="text-3xl font-bold text-gray-800">My Resume</h1>
         <a
-          href="src/assets/Tharun_Budidha_resume.pdf"
+          href="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851122/Tharun_Budidha_resume_fyxek2.pdf"
           download
           className="bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 flex items-center"
         >
@@ -20,7 +20,7 @@ const Resume = () => {
       {/* Display PDF in iframe */}
       <div className="w-full h-[90vh] border rounded-lg shadow">
         <iframe
-          src="src/assets/Tharun_Budidha_resume.pdf"
+          src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851122/Tharun_Budidha_resume_fyxek2.pdf"
           title="Resume PDF"
           className="w-full h-full"
           style={{border:"none"}}
