@@ -20,7 +20,7 @@ const Resume = () => {
       {/* Display PDF in iframe */}
       <div className="w-full h-[90vh] border rounded-lg shadow">
         <iframe
-          src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851122/Tharun_Budidha_resume_fyxek2.pdf"
+          src="https://drive.google.com/file/d/1qGPJGd8qtX1ZOKUJ9TNJgykmr3_J2si-/view?usp=drive_link"
           title="Resume PDF"
           className="w-full h-full"
           style={{border:"none"}}
