@@ -8,7 +8,7 @@ const Resume = () => {
       <div className="flex justify-between items-center mb-6">
         <h1 className="text-3xl font-bold text-gray-800">My Resume</h1>
         <a
-          href="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851122/Tharun_Budidha_resume_fyxek2.pdf"
+          href="https://drive.google.com/file/d/1qGPJGd8qtX1ZOKUJ9TNJgykmr3_J2si-/view?usp=drive_link"
           download
           className="bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 flex items-center"
         >
