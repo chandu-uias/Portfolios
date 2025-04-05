@@ -7,7 +7,7 @@ const Projects = () => {
       <div className="grid md:grid-cols-2 gap-8">
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <img
-            src="src/assets/EasyMed.png"
+            src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851128/EasyMed_vexgai.png"
             alt="Project 1"
             className="w-full h-48 object-cover"
           />
@@ -32,7 +32,7 @@ const Projects = () => {
 
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <img
-            src="src/assets/CampusFix.png"
+            src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851128/CampusFix_bxhaxb.png"
             alt="Project 2"
             className="w-full h-48 object-cover"
           />
@@ -57,7 +57,7 @@ const Projects = () => {
         </div>
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <img
-            src="src/assets/MessageKaro.png"
+            src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851124/MessageKaro_cuw9vn.png"
             alt="Project 3"
             className="w-full h-48 object-cover"
           />
@@ -80,7 +80,7 @@ const Projects = () => {
         </div>
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <img
-            src="src/assets/Spotify.png"
+            src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851127/Spotify_bpuhu1.png"
             alt="Project 4"
             className="w-full h-48 object-cover"
           />
