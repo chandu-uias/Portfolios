@@ -7,22 +7,22 @@ const Projects = () => {
       <div className="grid md:grid-cols-2 gap-8">
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <img
-            src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851128/EasyMed_vexgai.png"
+            src="https://res.cloudinary.com/dkf7alzki/image/upload/v1743916645/Screenshot_55_bjpohg.png"
             alt="Project 1"
             className="w-full h-48 object-cover"
           />
           <div className="p-6">
-            <h2 className="text-xl font-semibold text-gray-800 mb-2">EasyMed - Appointment Booking</h2>
+            <h2 className="text-xl font-semibold text-gray-800 mb-2">Doctor Search & Appointment Booking System</h2>
             <p className="text-gray-600 mb-4">
-            A full-stack doctor-patient appointment booking platform built with React, Node.js, and MongoDB.
-            Includes secure authentication, role-based dashboards, and Razorpay payment integration.
+            This project is a MERN Stack application that allows patients to search for doctors and book appointments.
+             Doctors can manage their appointments. The system includes authentication, search functionality, booking management, and notifications.
             </p>
             <div className="flex space-x-4">
-              <a href="https://github.com/BudidhaTharun/EasyMed" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://github.com/chandu-uias/DoctorAppointment.git" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <Github size={18} className="mr-1" />
                 Code
               </a>
-              <a href="https://github.com/BudidhaTharun/EasyMed" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://doctor-appointment-z2xh.vercel.app/" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <ExternalLink size={18} className="mr-1" />
                 Live Demo
               </a>
@@ -32,23 +32,23 @@ const Projects = () => {
 
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <img
-            src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851128/CampusFix_bxhaxb.png"
+            src="https://res.cloudinary.com/dkf7alzki/image/upload/v1743916962/Screenshot_56_kzetbl.png"
             alt="Project 2"
             className="w-full h-48 object-cover"
           />
           <div className="p-6">
-            <h2 className="text-xl font-semibold text-gray-800 mb-2">CampusFix: College Maintenance Request Platform</h2>
+            <h2 className="text-xl font-semibold text-gray-800 mb-2">StudyNotion – Build, Learn, and Grow with a Modern Ed-Tech Platform</h2>
             <p className="text-gray-600 mb-4">
-            A web application designed to streamline campus issue reporting and resolution. 
-            Built using React, Node.js, and MongoDB with real-time status tracking and role-based access for students and admins.
+            StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content.
+The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
             </p>
             <div className="flex space-x-4">
-              <a href=" https://github.com/BudidhaTharun/CampusFix" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://github.com/chandu-uias/Study-Notion-EdTech.git" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <Github size={18} className="mr-1" />
                  Code
               </a>
-              <a href="https://campusfix.onrender.com/" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://study-notion-full-stack.vercel.app/" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <ExternalLink size={18} className="mr-1" />
                 Live Demo
               </a>
@@ -57,21 +57,21 @@ const Projects = () => {
         </div>
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <img
-            src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851124/MessageKaro_cuw9vn.png"
+            src="https://res.cloudinary.com/dkf7alzki/image/upload/v1743917609/Screenshot_57_wh4ixb.png"
             alt="Project 3"
             className="w-full h-48 object-cover"
           />
           <div className="p-6">
-            <h2 className="text-xl font-semibold text-gray-800 mb-2">Connect - Real-Time Chat Application</h2>
-            <p className="text-gray-600 mb-4">A full-stack chat application enabling real-time communication between users
-              . Built using React, Node.js, and Socket.io with features like user authentication, live messaging, and modern UI for seamless interaction.
+            <h2 className="text-xl font-semibold text-gray-800 mb-2">Blog Application</h2>
+            <p className="text-gray-600 mb-4">This is a full-stack Blog Application that allows users to create, view, and manage blog posts. 
+              The application includes user authentication, blog creation, public blog listing with pagination, and blog management features.
             </p>
             <div className="flex space-x-4">
-              <a href="https://github.com/BudidhaTharun/Connect" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://github.com/chandu-uias/omnify_task.git" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <Github size={18} className="mr-1" />
                 Code
               </a>
-              <a href=" https://letsconnect1-frontend.onrender.com/" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://omnify-task-pnin.vercel.app/" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <ExternalLink size={18} className="mr-1" />
                Live Demo
               </a>
@@ -80,23 +80,23 @@ const Projects = () => {
         </div>
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <img
-            src="https://res.cloudinary.com/tharunbudidha/image/upload/v1743851127/Spotify_bpuhu1.png"
+            src="https://res.cloudinary.com/dkf7alzki/image/upload/v1743927847/Screenshot_58_ntjn8n.png"
             alt="Project 4"
             className="w-full h-48 object-cover"
           />
           <div className="p-6">
-            <h2 className="text-xl font-semibold text-gray-800 mb-2">Spotify UI Clone</h2>
+            <h2 className="text-xl font-semibold text-gray-800 mb-2">Sass Platform</h2>
             <p className="text-gray-600 mb-4">
-            A visually accurate clone of Spotify's user interface built using only HTML5 and CSS3. 
-            Focused on layout design, responsive behavior, and styling to closely mimic the real platform’s aesthetics and user experience.
+            This is a SaaS Plan Management System built enabling users to browse, purchase, and manage SaaS plans using Stripe payment gateway.
+             The platform allows Super Admins to manage plans, Organizations (Admins) to create and manage users, and Users to access the services based on their subscribed plan.
 
             </p>
             <div className="flex space-x-4">
-              <a href="https://github.com/BudidhaTharun/Spotify-Interface" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://github.com/chandu-uias/Tensor_sass.git" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <Github size={18} className="mr-1" />
                  Code
               </a>
-              <a href="https://budidhatharun.github.io/Spotify-Interface" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://tensor-sass.vercel.app/" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <ExternalLink size={18} className="mr-1" />
                Live Demo
               </a>

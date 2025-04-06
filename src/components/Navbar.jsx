@@ -13,7 +13,9 @@ const Navbar = () => {
     <nav className="bg-white shadow-lg">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center h-16">
+          
           <Link to="/" className="text-xl font-bold text-gray-800">Portfolio</Link>
+          
           <div className="hidden md:flex space-x-8">
             <Link to="/" className={`flex items-center space-x-1 ${isActive('/')}`}>
               <Home size={18} />
@@ -30,6 +32,10 @@ const Navbar = () => {
             <Link to="/projects" className={`flex items-center space-x-1 ${isActive('/projects')}`}>
               <Briefcase size={18} />
               <span>Projects</span>
+            </Link>
+            <Link to="/experience" className={`flex items-center space-x-1 ${isActive('/experience')}`}>
+              <Briefcase size={18} />
+              <span>Experience</span>
             </Link>
             <Link to="/contact" className={`flex items-center space-x-1 ${isActive('/contact')}`}>
               <Mail size={18} />

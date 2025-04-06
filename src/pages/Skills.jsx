@@ -14,7 +14,7 @@ const Skills = () => {
           <ul className="space-y-2 text-gray-600">
             <li>React.js </li>
             <li>JavaScript</li>
-            <li>Tailwind CSS</li>
+            <li>Tailwind CSS & Bootstrap</li>
             <li>HTML5 & CSS3</li>
           </ul>
         </div>
@@ -53,7 +53,7 @@ const Skills = () => {
           <ul className="space-y-2 text-gray-600">
             <li>Java</li>
             <li>C++</li>
-           <li>Python</li>
+           {/* <li>Python</li> */}
            <li>C</li>
           </ul>
         </div>

@@ -38,21 +38,22 @@ const Projects = () => {
             className="w-full h-48 object-cover"
           />
           <div className="p-6">
-            <h2 className="text-xl font-semibold text-gray-800 mb-2">Task Management App</h2>
+            <h2 className="text-xl font-semibold text-gray-800 mb-2">SaaS Platform</h2>
             <p className="text-gray-600 mb-4">
-              A collaborative task management application with real-time updates.
-              Built using React, Socket.io, and MongoDB.
+            This is a SaaS Plan Management System  enabling users to browse, purchase, and manage SaaS plans using Stripe payment gateway. 
+            The platform allows Super Admins to manage plans, Organizations (Admins) to create and manage users, and Users to access the services based on their subscribed plan.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://github.com/chandu-uias/Tensor_sass.git" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <Github size={18} className="mr-1" />
                 Code
               </a>
-              <a href="#" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://tensor-sass.vercel.app/" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <ExternalLink size={18} className="mr-1" />
                 Live Demo
               </a>
             </div>
+            
           </div>
         </div>
       </div>

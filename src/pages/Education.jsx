@@ -15,14 +15,15 @@ const Education = () => {
           <div className="flex items-center text-gray-600 mb-4">
             <Calendar size={18} className="mr-2" />
             <span>2021 - 2025</span>
+            
+          </div>
+          <div className="flex items-center text-gray-600 mb-4">
+             <GraduationCap size={18} className="mr-2" />
+               <span>CGPA: 8.4</span>
           </div>
           <p className="text-gray-600">
-          <br />
-          ★ Qualified GATE 2025 conducted by IIT Roorkee  
-  <br />
-  <br/>
 
-   Major Courses: Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks, Web Development
+   Major Courses: Data Structures, Algorithms, Operating Systems, DBMS, SQL, Computer Networks, Web Development
           </p>
         </div>
         <div className="bg-white p-6 rounded-lg shadow-md">
@@ -34,6 +35,10 @@ const Education = () => {
           <div className="flex items-center text-gray-600 mb-4">
             <Calendar size={18} className="mr-2" />
             <span>2019 - 2021</span>
+          </div>
+          <div className="flex items-center text-gray-600 mb-4">
+             <GraduationCap size={18} className="mr-2" />
+               <span>CGPA: 9.0</span>
           </div>
           <p className="text-gray-600">
             Major in  Mathematics , Physics and Chemistry.

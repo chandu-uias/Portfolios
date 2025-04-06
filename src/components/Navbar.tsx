@@ -31,6 +31,7 @@ const Navbar = () => {
               <Briefcase size={18} />
               <span>Projects</span>
             </Link>
+        
             <Link to="/contact" className={`flex items-center space-x-1 ${isActive('/contact')}`}>
               <Mail size={18} />
               <span>Contact</span>
