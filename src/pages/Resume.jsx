@@ -8,7 +8,7 @@ const Resume = () => {
       <div className="flex justify-between items-center mb-6">
         <h1 className="text-3xl font-bold text-gray-800">My Resume</h1>
         <a
-          href="https://drive.google.com/file/d/1GZ5QoRq7hpmcFW2IL0SkIHMQyTkdArqJ/view?usp=sharing"
+          href="https://drive.google.com/file/d/1QdHvs-kZicojVoH6akHxu8irvJv7EA-s/view?usp=sharing"
           download
           className="bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 flex items-center"
         >
@@ -20,7 +20,7 @@ const Resume = () => {
       {/* Display PDF in iframe */}
       <div className="w-full h-[90vh] border rounded-lg shadow">
         <iframe
-          src="https://drive.google.com/file/d/1GZ5QoRq7hpmcFW2IL0SkIHMQyTkdArqJ/view?usp=sharing"
+          src="https://drive.google.com/file/d/1QdHvs-kZicojVoH6akHxu8irvJv7EA-s/view?usp=sharing"
           title="Resume PDF"
           className="w-full h-full"
           style={{border:"none"}}
